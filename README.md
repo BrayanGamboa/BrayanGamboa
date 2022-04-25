@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brayan Gamboa</h1>
-<h3 align="center">I like programing and am backend developer Junior Colombiano.</h3>
+<h3 align="center">I like programing and am backend developer Colombiano.</h3>
 
 - 🌱 I’m currently learning **Hapi, Google Cloud and Firebase.**
 
