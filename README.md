@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BrayaGamboa" alt="brayagamboa" /></a> </p> -->
 
-- 🌱 I’m currently learning **Hapi, Google Cloud and Firebase.**
+- 🌱 I’m currently learning **Hapi, Google Cloud and Docker.**
 
 - ⚡ Fun fact **I like to learn new things.**
 
