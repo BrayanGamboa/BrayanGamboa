@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bsgv2005/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayangamboa)
 
 <img src="https://user-images.githubusercontent.com/76574522/236319489-4018aea1-9888-4f77-9ebf-5c6d16f57f2c.png" width="100%" title="Intro Card" alt="Intro Card">
 <br/>
