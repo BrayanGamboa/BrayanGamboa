@@ -1,8 +1,9 @@
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayangamboa)
 
 <img src="https://user-images.githubusercontent.com/76574522/236319489-4018aea1-9888-4f77-9ebf-5c6d16f57f2c.png" width="100%" title="Intro Card" alt="Intro Card">
 <br/>
-
+<!--
 ## About Me
 
 <p> I'm a Backend developer with knowledge and experience in programming languages such as TypeScript, JavaScript, Node.JS and C#, as well as in handling relational databases such as MySQL and PostgreSQL. <br/>I possess skills such as service attitude, achievement orientation, ability to carry out processes effectively and teamwork. I love the world of programming! :wink: </p>
@@ -18,10 +19,11 @@
 ## My Stats
 
 <div align="center">
-<!--
+
  <img src="https://github-readme-stats.vercel.app/api?username=BrayanGamboa&show_icons=true&theme=dracula" />
-<br/>](url)-->
+<br/>](url)
 <br/>
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanGamboa&theme=radical&hide=glsl,python" />
 </div>
+-->
